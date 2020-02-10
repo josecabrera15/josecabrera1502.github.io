@@ -13,10 +13,10 @@ background-color: #F7F3DE;
  header h1 { font-size: 350%;
   color: #7C1A00; 
   padding: 40px;
-  left-padding: 120px; 
+  padding-left: 120px; 
 background-image: url("header-image-1.gif");
    background-repeat: no-repeat;
-  position:top-left; 
+  position:left; 
 }
 #container {
   margin-bottom: 30px;
@@ -24,8 +24,6 @@ background-image: url("header-image-1.gif");
 nav { 
  float: left;
 width: 150px; 
-list-style-type:none;
-  color: #7C1AOO;
 }
 nav ul {padding: 0px;
 margin: 0px;
